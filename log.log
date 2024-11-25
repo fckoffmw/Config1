@@ -1,0 +1,9 @@
+{"timestamp": "2024-11-25T20:06:48.654945", "user": "user", "action": "ls"}
+{"timestamp": "2024-11-25T20:06:56.020046", "user": "user", "action": "cd fs"}
+{"timestamp": "2024-11-25T20:15:22.090469", "user": "user", "action": "exit"}
+{"timestamp": "2024-11-25T20:16:01.033709", "user": "user", "action": "ls"}
+{"timestamp": "2024-11-25T20:16:07.694612", "user": "user", "action": "cd fs"}
+{"timestamp": "2024-11-25T20:16:11.140798", "user": "user", "action": "ls"}
+{"timestamp": "2024-11-25T20:16:19.424931", "user": "user", "action": "tac kk1"}
+{"timestamp": "2024-11-25T20:16:26.575542", "user": "user", "action": "wc kk1"}
+{"timestamp": "2024-11-25T20:16:46.582270", "user": "user", "action": "exit"}
